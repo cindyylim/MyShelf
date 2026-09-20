@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Goodreads Clone",
+  title: "MyShelf",
   description: "A book tracking and social reading app",
 };
 

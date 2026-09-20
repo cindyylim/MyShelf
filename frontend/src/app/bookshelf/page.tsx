@@ -177,7 +177,7 @@ export default function Bookshelf() {
           fontSize: '1.5rem',
           fontWeight: 'bold'
         }}>
-          📚 Goodreads Clone
+          📚 MyShelf
         </Link>
         <div style={{ display: 'flex', gap: '1rem', alignItems: 'center' }}>
           <span style={{ color: 'white', fontSize: '0.9rem' }}>

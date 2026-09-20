@@ -4,7 +4,7 @@ const http = require('http');
 async function testAPI() {
   const baseURL = 'http://localhost:5000';
   
-  console.log('Testing Goodreads Clone API...\n');
+  console.log('Testing MyShelf API...\n');
   
   // Test root endpoint
   try {

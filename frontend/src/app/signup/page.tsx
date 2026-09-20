@@ -68,7 +68,7 @@ export default function Signup() {
             marginBottom: '0.5rem',
             color: '#333'
           }}>
-            Join Goodreads Clone
+            Join MyShelf
           </h1>
           <p style={{ color: '#666', margin: 0 }}>
             Create your account to get started

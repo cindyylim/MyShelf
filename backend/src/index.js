@@ -50,7 +50,7 @@ const authenticateToken = (req, res, next) => {
 
 // Basic route
 app.get('/', (req, res) => {
-  res.send('Goodreads Clone API is running');
+  res.send('MyShelf API is running');
 });
 
 // Test route

@@ -211,7 +211,7 @@ export default function Books() {
           fontSize: '1.5rem',
           fontWeight: 'bold'
         }}>
-          📚 Goodreads Clone
+          📚 MyShelf
         </Link>
         <div style={{ display: 'flex', gap: '1rem', alignItems: 'center' }}>
           {user ? (

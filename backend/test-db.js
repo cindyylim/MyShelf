@@ -33,7 +33,7 @@ async function testConnection() {
     const testBook = new Book({
       title: 'Test Book',
       author: 'Test Author',
-      description: 'A test book for our Goodreads clone',
+      description: 'A test book for our MyShelf',
       genres: ['Fiction', 'Test']
     });
     

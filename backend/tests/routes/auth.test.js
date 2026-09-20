@@ -21,7 +21,7 @@ describe('Auth Routes', () => {
         it('should get root route', async () => {
             const res = await request(app).get('/');
             expect(res.statusCode).toEqual(200);
-            expect(res.text).toContain('Goodreads Clone API');
+            expect(res.text).toContain('MyShelf API');
         });
 
         it('should get test route', async () => {
