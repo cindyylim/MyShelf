@@ -38,20 +38,20 @@ Next.js (Render)  --cookie JWT-->  Express API (Render)
 ## Screenshots
 
 <p>
-  <img width="48%" alt="Login" src="https://github.com/user-attachments/assets/12f896a4-7db5-44fa-b2a9-14b0c0bc8725" />
-  <img width="48%" alt="Discover" src="https://github.com/user-attachments/assets/824ee359-3e80-4d64-8d49-a828384fc38f" />
+  <img width="48%" alt="Home" src="docs/screenshots/myshelf-home.png" />
+  <img width="48%" alt="Login" src="docs/screenshots/myshelf-login.png" />
 </p>
 <p>
-  <img width="48%" alt="Catalog" src="https://github.com/user-attachments/assets/d2f87d45-f2f9-4a37-8d1e-6120275fdc8f" />
-  <img width="48%" alt="Bookshelf" src="https://github.com/user-attachments/assets/45f741d7-dfe9-4023-8ea2-d15e8f9ec332" />
+  <img width="48%" alt="Catalog" src="docs/screenshots/myshelf-catalog.png" />
+  <img width="48%" alt="Bookshelf" src="docs/screenshots/myshelf-bookshelf.png" />
 </p>
 <p>
-  <img width="48%" alt="Profile" src="https://github.com/user-attachments/assets/8d0731ab-b380-44ac-9112-7b95bec06ee1" />
-  <img width="48%" alt="Book clubs" src="https://github.com/user-attachments/assets/0b9f9d2b-2c80-4a7c-ab87-7ba7323614ed" />
+  <img width="48%" alt="Profile" src="docs/screenshots/myshelf-profile.png" />
+  <img width="48%" alt="Book clubs" src="docs/screenshots/myshelf-community.png" />
 </p>
 <p>
-  <img width="48%" alt="Discussion" src="https://github.com/user-attachments/assets/f9e4c446-30da-49c0-8b76-9281dec3fd55" />
-  <img width="48%" alt="New discussion" src="https://github.com/user-attachments/assets/99f843d7-ca33-44c3-98b4-26a3e4a35052" />
+  <img width="48%" alt="Group" src="docs/screenshots/myshelf-group.png" />
+  <img width="48%" alt="Discussion" src="docs/screenshots/myshelf-discussion.png" />
 </p>
 
 ---
