@@ -11,7 +11,7 @@ export const connectDB = async () => {
   }
 
   try {
-    let uri = process.env.MONGODB_URI || 'mongodb://localhost:27017/goodreads-clone';
+    let uri = process.env.MONGODB_URI;
 
     // If it's a local MongoDB connection, remove the query parameters
     if (uri.includes('localhost') || uri.includes('127.0.0.1')) {

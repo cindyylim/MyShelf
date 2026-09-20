@@ -15,7 +15,7 @@ import { getTopics, createTopic, getTopic, replyTopic } from './routes/topic.rou
 
 const app = express();
 app.use(cors({
-  origin: ['http://localhost:3000', 'https://goodreads-frontend-rp56.onrender.com'],
+  origin: ['http://localhost:3000', 'https://myshelf-nr08.onrender.com'],
   credentials: true
 }));
 app.use(express.json());
