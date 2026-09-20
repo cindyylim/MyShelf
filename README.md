@@ -2,7 +2,7 @@
 
 Full-stack social reading app: catalog + Google Books import, personal shelves, follows, and book-club discussions.
 
-**[Live demo](https://goodreads-frontend-rp56.onrender.com/login)** · Render free tier — first load can take ~30s
+**[Live demo](https://myshelf-nr08.onrender.com/)** · Render free tier — first load can take ~30s
 
 | Layer | Choices |
 | --- | --- |
